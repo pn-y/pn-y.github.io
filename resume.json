@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Artem Skripka",
+    "label": "Software Engineer",
+    "picture": "https://i.imgur.com/UhN8BtM.jpg",
+    "email": "therewasadrizzle@gmail.com",
+    "phone": "+7 (999) 441-53-25",
+    "website": "https://pn-y.github.io",
+    "summary": "At each project i've communicated directly with product owner. Worked with both agile and waterfall.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Ulyanovsk",
+      "countryCode": "Russia",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "skripkaartem",
+        "url": "https://www.linkedin.com/in/skripkaartem/"
+      },
+      {
+        "network": "Github",
+        "username": "pn-y",
+        "url": "https://github.com/pn-y/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Castle Digital Partners",
+      "position": "Software Engineer",
+      "website": "https://castle.co",
+      "startDate": "2016-12",
+      "endDate": "",
+      "summary": "Working at LearnTrials project - an edTech startup helping to expand equitable access for all students to education technology that works.",
+      "highlights": [
+        "Rewrite parts of legacy angular frontend into new shiny react during implementation of new features.",
+        "Implement new features for RoR backend / react frontend."
+      ]
+    },
+    {
+      "company": "GridHub",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2015-08",
+      "endDate": "2016-11",
+      "summary": "GridHub is a renewable energy business platform helping clients showcase their portfolio and expertise. I've worked as fullstack engineer, helped to build application infrastructure. ",
+      "highlights": [
+        "I learned to stop worrying and love the tests",
+        "Mentored new deverloper",
+        "Helped to make a step out of typical RailsWay and use Trailblazer and Dry-stack in production"
+      ]
+    },
+    {
+      "company": "Katran-PSK",
+      "position": "1C Developer/Consultant",
+      "website": "",
+      "startDate": "2012-10",
+      "endDate": "2015-10",
+      "summary": "Company focused on partnership with building companies, helping them get more control at their business processes with a help of ERP systems based on products of 1C company. I've participated in 4 integration projects lasting from 4 to 13 months.",
+      "highlights": [
+        "Wrote several instructions for ERP system",
+        "Teached dozens of customer's employees to work in new business processes",
+        "Was a lead for one develoer and one consultant during ERP integration ",
+        "Made a platform for internal use based on both 1C Document Management and 1C ITIL"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Siberian State Technological University",
+      "area": "Software Engineering",
+      "studyType": "Some University Courses",
+      "startDate": "2008-09",
+      "endDate": "2011-04",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Ruby",
+        "ES6"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "",
+      "keywords": [
+        "Ruby On Rails",
+        "React",
+        "Redux",
+        "TDD",
+        "Linux",
+        "MacOs",
+        "Docker",
+        "Vagrant",
+        "AWS",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B-2"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}

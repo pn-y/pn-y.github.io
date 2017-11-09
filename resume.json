@@ -6,7 +6,7 @@
     "email": "therewasadrizzle@gmail.com",
     "phone": "+7 (999) 441-53-25",
     "website": "https://pn-y.github.io",
-    "summary": "At each project i've communicated directly with product owner. Worked with both agile and waterfall.",
+    "summary": "At each project i communicated directly with a product owner. Used both agile and waterfall.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,10 +34,10 @@
       "website": "https://castle.co",
       "startDate": "2016-12",
       "endDate": "",
-      "summary": "Working at LearnTrials project - an edTech startup helping to expand equitable access for all students to education technology that works.",
+      "summary": "Working at LearnTrials project - an edTech startup helping to expand an equitable access for all students to education technology that works.",
       "highlights": [
-        "Rewrite parts of legacy angular frontend into new shiny react during implementation of new features.",
-        "Implement new features for RoR backend / react frontend."
+        "Rewrite parts of legacy Angular frontend into new shiny React during implementation of new features.",
+        "Implement new features for RoR backend / React frontend."
       ]
     },
     {
@@ -46,11 +46,11 @@
       "website": "",
       "startDate": "2015-08",
       "endDate": "2016-11",
-      "summary": "GridHub is a renewable energy business platform helping clients showcase their portfolio and expertise. I've worked as fullstack engineer, helped to build application infrastructure. ",
+      "summary": "GridHub is a renewable energy business platform helping clients showcase their portfolio and expertise. I worked as a fullstack engineer, participated in building application infrastructure. ",
       "highlights": [
-        "I learned to stop worrying and love the tests",
+        "I learned to stop worrying and love tests",
         "Mentored new developer",
-        "Helped to make a step out of typical RailsWay and use Trailblazer and Dry-stack in production"
+        "Led the process of making a step out of typical RailsWay and use Trailblazer and Dry-stack in production"
       ]
     },
     {
@@ -59,11 +59,11 @@
       "website": "",
       "startDate": "2012-10",
       "endDate": "2015-10",
-      "summary": "Company focused on partnership with building companies, helping them get more control at their business processes with a help of ERP systems based on products of 1C company. I've participated in 4 integration projects lasting from 4 to 13 months.",
+      "summary": "The company focused on partnership with building companies, helping them get more control at their business processes with a help of ERP systems based on products of 1C company. I've participated in 4 integration projects lasting from 4 to 13 months.",
       "highlights": [
         "Wrote several instructions for ERP system",
-        "Teached dozens of customer's employees to work in new business processes",
-        "Was a lead for one developer and one consultant during ERP integration ",
+        "Taught dozens of customer's employees to work in new business processes",
+        "Led for one developer and one consultant during ERP integration ",
         "Made a platform for internal use based on both 1C Document Management and 1C ITIL"
       ]
     }

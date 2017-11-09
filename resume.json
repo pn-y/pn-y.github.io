@@ -59,7 +59,7 @@
       "website": "",
       "startDate": "2012-10",
       "endDate": "2015-10",
-      "summary": "The company focused on partnership with building companies, helping them get more control at their business processes with a help of ERP systems based on products of 1C company. I've participated in 4 integration projects lasting from 4 to 13 months.",
+      "summary": "The company focused on partnership with building companies, helping them get more control at their business processes with a help of ERP systems based on products of 1C company. I participated in 4 integration projects lasting from 4 to 13 months.",
       "highlights": [
         "Wrote several instructions for ERP system",
         "Taught dozens of customer's employees to work in new business processes",
@@ -78,7 +78,19 @@
       "endDate": "2011-04",
       "gpa": "",
       "courses": []
+    },
+    {
+      "institution": "Hexlet",
+      "area": "Software Engineering",
+      "studyType": "Online cources",
+      "startDate": "2015",
+      "endDate": "2016",
+      "gpa": "",
+      "courses": [
+        "Backend JS"
+      ]
     }
+
   ],
   "awards": [],
   "publications": [],
